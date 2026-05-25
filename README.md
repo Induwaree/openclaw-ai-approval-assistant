@@ -1,36 +1,49 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# OpenClaw AI Approval Assistant
 
-## Getting Started
+> Build something brilliant. Automate something real.
 
-First, run the development server:
+AI-powered workflow automation system built for the **DataVita OpenClaw Challenge**.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+# Overview
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+OpenClaw AI Approval Assistant is a smart workflow management platform designed to automate approval processes inside organisations.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+The system allows users to:
+- submit approval requests
+- analyse request content
+- assign request categories
+- generate AI summaries
+- prioritise requests
+- manage approval decisions through a live dashboard
 
-## Learn More
+This project demonstrates how AI-assisted workflow automation can improve operational efficiency and reduce repetitive manual work.
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+# The Problem
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Many organisations still rely on:
+- manual email approvals
+- spreadsheets
+- disconnected workflows
+- repetitive operational tasks
+- delayed approvals
+- poor operational visibility
 
-## Deploy on Vercel
+These traditional processes reduce efficiency and create approval bottlenecks.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+# The Solution
+
+OpenClaw AI Approval Assistant introduces a simple but practical AI-assisted workflow automation system that:
+
+✅ receives approval requests  
+✅ analyses request content  
+✅ generates AI summaries  
+✅ categorises requests automatically  
+✅ assigns priority levels  
+✅ tracks approval decisions  
+✅ provides operational visibility through a dashboard  
