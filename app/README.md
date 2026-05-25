@@ -150,16 +150,20 @@ Send request to approval manager for review.
 # 📸 Screenshots
 
 ## Dashboard
-(Add Screenshot Here)
+<img width="1512" height="982" alt="Main Dashboard" src="https://github.com/user-attachments/assets/1fbd1480-bb0c-4937-99c3-ea6769949f39" />
+
 
 ## Request Submission
-(Add Screenshot Here)
+<img width="1512" height="982" alt="Request Submission Form" src="https://github.com/user-attachments/assets/4095fc8c-5353-4238-8416-e922b6cea20d" />
+
 
 ## OpenClaw AI Analysis
-(Add Screenshot Here)
+<img width="1512" height="982" alt="OpenClaw AI Analysis" src="https://github.com/user-attachments/assets/019daba6-7d4d-4de2-b6ba-6fef42292e6c" />
+
 
 ## Approval Workflow
-(Add Screenshot Here)
+<img width="1512" height="982" alt="Approval Workflow" src="https://github.com/user-attachments/assets/fec33ed1-18d2-4b63-be87-4b7e2b86d08d" />
+
 
 ---
 
