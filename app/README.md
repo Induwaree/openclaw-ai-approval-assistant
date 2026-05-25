@@ -1,96 +1,241 @@
-# OpenClaw AI Approval Assistant
+# 🚀 OpenClaw AI Approval Assistant
 
-An AI-powered workflow approval assistant built for the OpenClaw Challenge.
+> Build something brilliant. Automate something real.
 
----
-
-## Problem
-
-Many organisations still manage approvals manually through emails, spreadsheets, and separate documents. This causes delays, missed approvals, and poor visibility.
+AI-powered workflow automation system built for the **DataVita OpenClaw Challenge**.
 
 ---
 
-## Solution
+# 🌍 Overview
 
-This project uses OpenClaw to support document approval workflows by summarising requests, categorising them, assigning priority, and tracking approval status.
+OpenClaw AI Approval Assistant is a smart workflow management platform designed to automate approval processes inside organisations.
 
----
+The system allows users to:
+- submit approval requests
+- analyse request content
+- assign request categories
+- generate AI summaries
+- prioritise requests
+- manage approval decisions through a live dashboard
 
-## Features
-
-- Approval dashboard
-- Request tracking
-- AI-generated request summary
-- AI category detection
-- AI priority assignment
-- Approve / Reject workflow
-- Upload request form
-- Modern UI dashboard
+This project demonstrates how AI-assisted workflow automation can improve operational efficiency and reduce repetitive manual work.
 
 ---
 
-## OpenClaw Workflow
+# ❗ The Problem
 
-When a new request is submitted:
+Many organisations still rely on:
+- manual email approvals
+- spreadsheets
+- disconnected workflows
+- repetitive operational tasks
+- delayed approvals
+- poor operational visibility
 
-1. OpenClaw reads the request content
-2. Generates a short AI summary
-3. Detects the request category
-4. Assigns request priority
-5. Creates an approval task
-6. Sends notification to approver
-7. Tracks final approval status
+These traditional processes reduce efficiency and create approval bottlenecks.
 
 ---
 
-## Example Use Cases
+# 💡 The Solution
 
-- Banking approval requests
+OpenClaw AI Approval Assistant introduces a simple but practical AI-assisted workflow automation system that:
+
+✅ receives approval requests  
+✅ analyses request content  
+✅ generates AI summaries  
+✅ categorises requests automatically  
+✅ assigns priority levels  
+✅ tracks approval decisions  
+✅ provides operational visibility through a dashboard  
+
+---
+
+# 🧠 OpenClaw Workflow Concept
+
+This project uses an OpenClaw-inspired AI workflow architecture.
+
+The system demonstrates how OpenClaw can:
+- analyse operational requests
+- automate workflow pipelines
+- support approval managers
+- categorise business operations
+- streamline repetitive tasks
+
+---
+
+# ⚙️ Workflow Architecture
+
+```text
+Frontend Dashboard (Next.js)
+        ↓
+API Route Layer
+        ↓
+OpenClaw Service Layer
+        ↓
+AI Workflow Logic
+        ↓
+Approval Status Management
+```
+
+---
+
+# ✨ Features
+
+## 📊 Smart Dashboard
+- Total requests tracking
+- Pending approvals
+- Approved requests
+- Rejected requests
+
+## 🤖 AI Request Analysis
+- AI-generated summaries
+- Automatic request categorisation
+- Priority assignment
+- Suggested workflow actions
+
+## ✅ Approval Workflow
+- Approve requests
+- Reject requests
+- Real-time dashboard updates
+
+## 📁 Request Submission System
+- Operational request uploads
+- Department-based workflows
+- Approval tracking
+
+---
+
+# 🧪 Example Use Cases
+
+- Banking approval workflows
 - Credit card limit enhancement approvals
+- Finance transaction approvals
 - HR leave approvals
-- Vendor payment approvals
 - Procurement workflows
+- Vendor payment approvals
 
 ---
 
-## Tech Stack
+# 🛠 Technologies Used
 
 - Next.js
+- React
 - TypeScript
 - Tailwind CSS
-- React
-- OpenClaw Workflow Concept
+- Node.js API Routes
+- OpenClaw Workflow Service Layer
 - GitHub
 
 ---
 
-## Why I Built This
+# 🔥 Example AI Workflow
 
-I built this project based on my experience in workflow automation, banking operations, and approval process optimisation.
+## User submits:
 
-The goal was to create a simple AI-powered system that improves operational efficiency and reduces manual workflow handling.
+```text
+Need approval for supplier payment transaction.
+```
+
+## OpenClaw AI Analysis:
+
+```text
+Category: Finance
+Priority: High
+Suggested Action:
+Send request to approval manager for review.
+```
 
 ---
 
-## Future Improvements
+# 📸 Screenshots
 
-- Real AI integration
-- Email notifications
+## Dashboard
+(Add Screenshot Here)
+
+## Request Submission
+(Add Screenshot Here)
+
+## OpenClaw AI Analysis
+(Add Screenshot Here)
+
+## Approval Workflow
+(Add Screenshot Here)
+
+---
+
+# 🎯 Challenge Alignment
+
+This project directly aligns with the OpenClaw Challenge objectives:
+
+✅ Build something real  
+✅ Automate something tedious  
+✅ Solve operational problems  
+✅ Demonstrate AI workflow concepts  
+✅ Showcase practical automation  
+
+---
+
+# 🚀 Future Improvements
+
+- Real OpenClaw cloud agent integration
 - Authentication system
 - Database integration
 - OCR document analysis
-- Workflow analytics
+- Email notifications
+- Multi-user approval pipelines
+- Cloud deployment
+- Workflow analytics dashboard
 
 ---
 
-## Author
+# ▶️ Running the Project
 
-Induwaree Amodya De Silva
+Install dependencies:
 
-## OpenClaw Integration
+```bash
+npm install
+```
 
-OpenClaw is used as the AI workflow layer for this project.
+Run the development server:
 
-The dashboard sends approval request data to the workflow assistant. OpenClaw can then analyse the request, generate a summary, assign a category, set priority, and notify the approver.
+```bash
+npm run dev
+```
 
-For the MVP, the app includes a local API route that simulates the OpenClaw response. This can be replaced with a real OpenClaw Gateway webhook in the next version.
+Open:
+
+```text
+http://localhost:3000
+```
+
+---
+
+# 📂 Project Structure
+
+```text
+app/page.tsx
+Frontend dashboard UI
+
+app/api/analyze/route.ts
+Backend API route
+
+lib/openclaw.ts
+OpenClaw workflow service layer
+
+openclaw-workflow.md
+Workflow explanation
+```
+
+---
+
+# 👩‍💻 Author
+
+**Induwaree Amodya De Silva**  
+Software Engineering Graduate  
+Workflow Automation & Data Operations Enthusiast
+
+---
+
+# 🏁 Built for the DataVita OpenClaw Challenge
+
+> “Show us what you can create with OpenClaw.”
