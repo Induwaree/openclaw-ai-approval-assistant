@@ -1,4 +1,4 @@
-# 🚀 OpenClaw AI Approval Assistant
+# OpenClaw AI Approval Assistant
 
 > Build something brilliant. Automate something real.
 
@@ -6,7 +6,7 @@ AI-powered workflow automation system built for the **DataVita OpenClaw Challeng
 
 ---
 
-# 🌍 Overview
+# Overview
 
 OpenClaw AI Approval Assistant is a smart workflow management platform designed to automate approval processes inside organisations.
 
@@ -22,7 +22,7 @@ This project demonstrates how AI-assisted workflow automation can improve operat
 
 ---
 
-# ❗ The Problem
+# The Problem
 
 Many organisations still rely on:
 - manual email approvals
@@ -36,7 +36,7 @@ These traditional processes reduce efficiency and create approval bottlenecks.
 
 ---
 
-# 💡 The Solution
+# The Solution
 
 OpenClaw AI Approval Assistant introduces a simple but practical AI-assisted workflow automation system that:
 
@@ -50,7 +50,7 @@ OpenClaw AI Approval Assistant introduces a simple but practical AI-assisted wor
 
 ---
 
-# 🧠 OpenClaw Workflow Concept
+# OpenClaw Workflow Concept
 
 This project uses an OpenClaw-inspired AI workflow architecture.
 
@@ -63,7 +63,7 @@ The system demonstrates how OpenClaw can:
 
 ---
 
-# ⚙️ Workflow Architecture
+# Workflow Architecture
 
 ```text
 Frontend Dashboard (Next.js)
@@ -79,33 +79,33 @@ Approval Status Management
 
 ---
 
-# ✨ Features
+# Features
 
-## 📊 Smart Dashboard
+## Smart Dashboard
 - Total requests tracking
 - Pending approvals
 - Approved requests
 - Rejected requests
 
-## 🤖 AI Request Analysis
+## AI Request Analysis
 - AI-generated summaries
 - Automatic request categorisation
 - Priority assignment
 - Suggested workflow actions
 
-## ✅ Approval Workflow
+## Approval Workflow
 - Approve requests
 - Reject requests
 - Real-time dashboard updates
 
-## 📁 Request Submission System
+## Request Submission System
 - Operational request uploads
 - Department-based workflows
 - Approval tracking
 
 ---
 
-# 🧪 Example Use Cases
+# Example Use Cases
 
 - Banking approval workflows
 - Credit card limit enhancement approvals
@@ -116,7 +116,7 @@ Approval Status Management
 
 ---
 
-# 🛠 Technologies Used
+# Technologies Used
 
 - Next.js
 - React
@@ -128,7 +128,7 @@ Approval Status Management
 
 ---
 
-# 🔥 Example AI Workflow
+# Example AI Workflow
 
 ## User submits:
 
@@ -147,27 +147,28 @@ Send request to approval manager for review.
 
 ---
 
-# 📸 Screenshots
+# Screenshots
 
 ## Dashboard
-<img width="1512" height="982" alt="Main Dashboard" src="https://github.com/user-attachments/assets/1fbd1480-bb0c-4937-99c3-ea6769949f39" />
+<img width="2396" height="1304" alt="Main Dashboard" src="https://github.com/user-attachments/assets/facc8969-0bf8-4937-a4a3-dbc11c977769" />
 
 
 ## Request Submission
-<img width="1512" height="982" alt="Request Submission Form" src="https://github.com/user-attachments/assets/4095fc8c-5353-4238-8416-e922b6cea20d" />
+<img width="2454" height="1318" alt="Request Submission Form" src="https://github.com/user-attachments/assets/5de6f13c-28c5-4746-889e-ad5753797737" />
+
 
 
 ## OpenClaw AI Analysis
-<img width="1512" height="982" alt="OpenClaw AI Analysis" src="https://github.com/user-attachments/assets/019daba6-7d4d-4de2-b6ba-6fef42292e6c" />
+<img width="2392" height="1338" alt="OpenClaw AI Analysis" src="https://github.com/user-attachments/assets/e7714414-4f67-435f-9423-fa977932b621" />
 
 
 ## Approval Workflow
-<img width="1512" height="982" alt="Approval Workflow" src="https://github.com/user-attachments/assets/fec33ed1-18d2-4b63-be87-4b7e2b86d08d" />
+<img width="2446" height="1312" alt="Approval Workflow" src="https://github.com/user-attachments/assets/5b0ca98e-ba40-4ce3-9958-ddf6a52d43b5" />
 
 
 ---
 
-# 🎯 Challenge Alignment
+# Challenge Alignment
 
 This project directly aligns with the OpenClaw Challenge objectives:
 
@@ -179,7 +180,7 @@ This project directly aligns with the OpenClaw Challenge objectives:
 
 ---
 
-# 🚀 Future Improvements
+# Future Improvements
 
 - Real OpenClaw cloud agent integration
 - Authentication system
@@ -192,7 +193,7 @@ This project directly aligns with the OpenClaw Challenge objectives:
 
 ---
 
-# ▶️ Running the Project
+# Running the Project
 
 Install dependencies:
 
@@ -214,7 +215,7 @@ http://localhost:3000
 
 ---
 
-# 📂 Project Structure
+# Project Structure
 
 ```text
 app/page.tsx
@@ -232,7 +233,7 @@ Workflow explanation
 
 ---
 
-# 👩‍💻 Author
+# Author
 
 **Induwaree Amodya De Silva**  
 Software Engineering Graduate  
